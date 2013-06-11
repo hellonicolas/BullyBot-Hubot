@@ -19,8 +19,8 @@
     "hubot": "2.5.x",
     "hubot-scripts": "latest",
     "optparse": "1.0.3",
-    "soupselect": "latest",
-    "htmlparser": "latest",
+    "soupselect": "0.2.0",
+    "htmlparser": "1.7.6",
     "big-integer": "latest"
   },
 

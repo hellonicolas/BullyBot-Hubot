@@ -20,7 +20,8 @@
     "hubot-scripts": "latest",
     "optparse": "1.0.3",
     "soupselect": "latest",
-    "htmlparser": "latest"
+    "htmlparser": "latest",
+    "big-integer": "latest"
   },
 
   "engines": {
