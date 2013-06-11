@@ -1,0 +1,1264 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rea",
+				"readableBytes"
+			],
+			[
+				"preloadea",
+				"preloaderAnim"
+			],
+			[
+				"visi",
+				"visible"
+			],
+			[
+				"pausevi",
+				"pauseVideo"
+			],
+			[
+				"getrand",
+				"getRandomArbitary"
+			],
+			[
+				"trans",
+				"transitionImages"
+			],
+			[
+				"cloe",
+				"cloned_img"
+			],
+			[
+				"COMP",
+				"COMPOSITE_OVERLAY"
+			],
+			[
+				"proc",
+				"processed_image"
+			],
+			[
+				"proce",
+				"processed_img"
+			],
+			[
+				"slideshow",
+				"slideshowWidth"
+			],
+			[
+				"Tw",
+				"TweenLite"
+			],
+			[
+				"vide",
+				"videoData"
+			],
+			[
+				"endtag",
+				"endTagVideoPlayer"
+			],
+			[
+				"ready",
+				"ready	document.ready - $(function()"
+			],
+			[
+				"sounda",
+				"soundManager"
+			],
+			[
+				"slideshw",
+				"slideshowHeight"
+			],
+			[
+				"repla",
+				"replay-btn"
+			],
+			[
+				"restart",
+				"restartVideo"
+			],
+			[
+				"random",
+				"randomNumbers"
+			],
+			[
+				"voiceoverpa",
+				"voiceoverPathParts"
+			],
+			[
+				"Time",
+				"TimelineMax"
+			],
+			[
+				"grainim",
+				"grainImagePath"
+			],
+			[
+				"gra",
+				"grainImages"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/User/Flash Build.sublime-build",
+	"command_palette":
+	{
+		"height": 30.0,
+		"selected_items":
+		[
+			[
+				"as3",
+				"Set Syntax: ActionScript 3"
+			],
+			[
+				"action",
+				"Set Syntax: ActionScript 3"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			],
+			[
+				"dupl",
+				"File: Duplicate"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"actions",
+				"Set Syntax: ActionScript 3"
+			],
+			[
+				"actionsc",
+				"Set Syntax: ActionScript"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"prettyf",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"copy p",
+				"File: Copy Path"
+			],
+			[
+				"copy pat",
+				"File: Copy Path"
+			],
+			[
+				"open in",
+				"Open in terminal"
+			],
+			[
+				"minif",
+				"Minify Javascript"
+			],
+			[
+				"open t",
+				"Open in terminal"
+			],
+			[
+				"open n",
+				"Open in terminal"
+			],
+			[
+				"war",
+				"Emmet: Wrap With Abbreviation"
+			],
+			[
+				"dele",
+				"File: Delete"
+			],
+			[
+				"open ter",
+				"Open in terminal"
+			],
+			[
+				"include",
+				"Snippet: HTML - Include jQuery"
+			],
+			[
+				"html",
+				"Snippet: HTML - HTML foundation"
+			],
+			[
+				"snippet html",
+				"Snippet: HTML - HTML5 shiv"
+			],
+			[
+				"remove pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"jquery",
+				"Set Syntax: jQuery (JavaScript)"
+			],
+			[
+				"prettyfi",
+				"Pretty JSON: Reformat (Pretty Print) JSON"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"term",
+				"Open in terminal"
+			],
+			[
+				"preferen",
+				"Preferences: Settings - User"
+			],
+			[
+				"go to ",
+				"Emmet: Go to Matching Pair"
+			],
+			[
+				"merge l",
+				"Emmet: Merge Lines"
+			],
+			[
+				"match p",
+				"Emmet: Match Pair (outward)"
+			],
+			[
+				"math par",
+				"Emmet: Match Pair (inward)"
+			],
+			[
+				"toggle comm",
+				"Emmet: Toggle Comment"
+			],
+			[
+				"toggle c",
+				"Toggle Comment"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"delet",
+				"File: Delete"
+			],
+			[
+				"scss",
+				"Set Syntax: SCSS"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"uplic",
+				"File: Duplicate"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"remove ac",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"bracket",
+				"BracketHighlighter: Toggle High Visibility Mode"
+			],
+			[
+				"bracke",
+				"BracketHighlighter: Jump to Left Bracket"
+			],
+			[
+				"preferen us",
+				"Preferences: Settings - User"
+			],
+			[
+				"preference",
+				"Preferences: Settings - Default"
+			],
+			[
+				"REMOVE PAC",
+				"Package Control: Remove Package"
+			],
+			[
+				"to tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"web ins",
+				"Set Syntax: Web Inspector (Stack)"
+			],
+			[
+				"copy path",
+				"File: Copy Path"
+			],
+			[
+				"revea",
+				"File: Reveal"
+			],
+			[
+				"reve",
+				"File: Reveal"
+			],
+			[
+				"copy",
+				"File: Copy Path as URI"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 417.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Pantry of Time/deploy/xml/tracking.xml",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Pantry of Time/project.gaia",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Pantry of Time/source/com/bumblebee/MainOLD.as",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Bring Back My Tuna/.git/config",
+		"/Users/Rome/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Bring Back My Tuna/source/com/bumblebee/BBSection.as",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Bring Back My Tuna/deploy/facebook.html",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Bring Back My Tuna/deploy/js/main.js",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Bring Back My Tuna/deploy/index.html",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Bring Back My Tuna/source/com/bumblebee/Intro.as",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Bring Back My Tuna/source/com/bumblebee/Main.as",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Bring Back My Tuna/source/com/bumblebee/Friend.as",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Bring Back My Tuna/Bring Back My Tuna.sublime-project",
+		"/Users/Rome/Library/Application Support/Sublime Text 2/Packages/User/Flash Build.sublime-build",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Bring Back My Tuna/source/com/bumblebee/struct/CustomView.as",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Bring Back My Tuna/source/com/bumblebee/User.as",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Bring Back My Tuna/source/com/bumblebee/Var.as",
+		"/Users/Rome/Documents/Projects/Lagadere/Bumble Bee - Bring Back My Tuna/source/com/bumblebee/facebook/FacebookAPI.as",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/.gitignore",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/test/facedetect/index.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/codeigniter/core/Config.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/controllers/legendofyou.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/config/config.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/Rakefile",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/build/voiceovers.sql",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/controllers/api/slideshow.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/config/database.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/controllers/publish.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/views/publish.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/main.min.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/api.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/legend-app.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/views/legendofyou.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/controllers/api/photo.php",
+		"/Volumes/Public/CLIENTS/Lagadere/LA13001_BumbleBeeTuna/Prototype/source/com/bumblebee/MainFB.as",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/controllers/api/voiceover.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/models/voiceover_model.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/includes/legend_share_helper.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/css/legend-video.scss",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/css/variables.scss",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/build/convert.sh",
+		"/Volumes/Public/CLIENTS/Lagadere/LA13001_BumbleBeeTuna/Prototype/deploy/xml/tracking.xml",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/config/legendofyou.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/controllers/redirect.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/codekit-config.json",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/php.ini",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/plugins/csphotoselector/csphotoselector.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/greensock/easing/EasePack.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/legend-video-test.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/codeigniter/libraries/Upload.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/main.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/css/csphotoselector.scss",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/codeigniter/helpers/file_helper.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/focus-test.html",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/libraries/qqfileuploader.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/plugins/csphotoselector/example.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/controllers/email.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/css/main.scss",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/datamapper/array.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/config/constants.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/config/email.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/classes/filters/iphotofilter.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/classes/filters/riverfallfilter.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/models/filter_model.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/classes/filters/filter.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/codeigniter/libraries/Email.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/libraries/MY_Email.php",
+		"/Users/Rome/Documents/Projects/AlienEye/AE13001_NortonAnti-VirusApp/Unity/AE13001_NortonAnti-VirusApp/Assets/Fonts/Shin Go Pro/BMFont Settings/ShinGo-R-hd - BMFont config.bmfc",
+		"/Volumes/Public/CLIENTS/Alien-Eye/AE13001_NortonAnti-VirusApp/PRODUCTION/Comps/Concept/UI_exports/fonts/Eurostile Extened 2.fnt",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/models/slideshow_model.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/models/slideshowviews_model.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/build/build.sql",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/voiceovers/parts/formats/line_MIM_F.m4a",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/video/video.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/plugins/jsmovieclip-1.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/tween-test.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/pxloader/PxLoader.js",
+		"/Users/Rome/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/plugins-min.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/plugins.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/codeigniter/helpers/directory_helper.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/css/film_dirt_spritesheet.sass",
+		"/Users/Rome/Library/Application Support/Sublime Text 2/Packages/Emmet/Default (OSX).sublime-keymap",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/css/film_bleed_spritesheet.sass",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/codeigniter/core/Security.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/css/legend-video.css",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/classes/filters/tradingcofilter.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/classes/filters/relicfilter.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/classes/filters/descentfilter.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/classes/filters/cleopatrafilter.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/classes/filters/passportfilter.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/temp.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/classes/filters/tradingcofilter_backup.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/models/photo_model.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/plugins/csphotoselector/csphotoselector.scss",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/plugins/csphotoselector/csphotoselector.css",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/LegendOfYou.sublime-workspace",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/plugins/fineuploader/util.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/plugins/fineuploader/header.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/js/plugins/fineuploader/dnd.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/index.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/htdocs/assets/css/main.css",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/.htaccess",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/assets/js/pxloader/PxLoaderVideo.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/tween-test.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/legend-video-test.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/assets/css/legend-video.scss",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/assets/js/legend-video.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/assets/js/pxloader/PxLoaderImage.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/assets/js/pxloader/PxLoaderSound.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/assets/js/api.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/assets/js/legend-app.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/assets/js/pxloader/PxLoader.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/assets/css/film_dirt_spritesheet.sass",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/controllers/install.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/classes/filters/instagraph.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/assets/js/greensock/easing/EasePack.js",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/LegendOfYou.sublime-project",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/classes/voiceoverviewmodel.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/includes/legend_share_helper.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/controllers/api/user.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/legendofyou/config/bitly.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/channel.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/index.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/assets/css/variables.scss",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/instagraph-test.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/lib/Instagraph/Instagraph.php",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src/public/assets/im_effects/curves.sh"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/admin/Documents/bitbucket/bbt_microsite/src",
+			"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou",
+			"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/src"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tarcking",
+			"tracked",
+			"JSONAsset",
+			"bin",
+			"wmode",
+			"wmodw",
+			"window",
+			"wmode",
+			"api.js",
+			"\"//",
+			"wmode",
+			"faceb",
+			"onStageResize",
+			"SectionIntro",
+			"createTestTextField",
+			"removeLoadingAnimation",
+			"onStageResize",
+			"Intro",
+			"MainFB",
+			"photoIsLoaded",
+			"CustomView",
+			"“",
+			"”",
+			"getFacebookData",
+			"swf",
+			"oader",
+			"main",
+			"video",
+			"mainvideo",
+			"faceb",
+			"shares",
+			"mudd",
+			"150792468441730",
+			"544003112319346",
+			"645897742090705",
+			"lege",
+			"legend",
+			"sandbox",
+			"sandbo",
+			"legend.",
+			"legendofyou.",
+			"channelUrl",
+			"legend of you",
+			"legend of",
+			"legend.",
+			"legendofyou",
+			"legend.",
+			"7a9e2d02ae529d8674f27fc7398e73d7",
+			"legendof",
+			"/publish",
+			"/legendary",
+			"slideshowUrl",
+			"gend",
+			"$gender",
+			"gender",
+			"is help",
+			"The Legend of You app from Dos Equis is helping people become Most Interestin",
+			"gender",
+			"gend",
+			"sharelenge",
+			"sharelegend",
+			"v=9",
+			".share",
+			"ss.share",
+			"gender",
+			"opengraph",
+			"opengraph-sha",
+			"opengra",
+			"opengraph-postcontent",
+			"helped me",
+			"gender",
+			"gend",
+			"is helping people ",
+			"is_num",
+			"api err",
+			"we're",
+			"expli",
+			"product",
+			"descrip",
+			"200",
+			".share",
+			"shareLegend",
+			"opengraph",
+			"shareLegend",
+			"console.log",
+			"product",
+			"v=8",
+			"itera",
+			"get_iter",
+			"isnan",
+			"debug",
+			"googlePageView",
+			"googleEvent",
+			"ga.js",
+			"floodlightTag",
+			"FacebookAPI",
+			"api",
+			".save(",
+			".save",
+			"videoData.photos.length",
+			"photos.length",
+			"max",
+			"v=7",
+			"isnan",
+			"startPreloading",
+			"v=6",
+			"zoom",
+			"production",
+			"v=5",
+			"v=",
+			"md5",
+			"$table",
+			"'voiceovers",
+			"voiceovers",
+			"save",
+			"we're sorry",
+			"$entry ",
+			"mimloy",
+			"post-image",
+			"pconnect",
+			"546",
+			"descr",
+			"things I know: wrap up that share-to-FB image, and the info screen (credits)",
+			"v=4",
+			"6007432089871",
+			"v=3",
+			"=v3",
+			"track."
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"assets/js/greensock/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 90.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				".xml",
+				"deploy/xml/tracking.xml"
+			],
+			[
+				"tracking.xml",
+				"deploy/xml/tracking.xml"
+			],
+			[
+				"jsx",
+				"AE Scripts/Export-Tracking-Keyframes-Multiple-Comps.jsx"
+			],
+			[
+				"bbse",
+				"source/com/bumblebee/BBSection.as"
+			],
+			[
+				"facebook",
+				"deploy/facebook.html"
+			],
+			[
+				"main.",
+				"deploy/js/main.js"
+			],
+			[
+				"index",
+				"deploy/index.html"
+			],
+			[
+				"intro",
+				"source/com/bumblebee/Intro.as"
+			],
+			[
+				"friend",
+				"source/com/bumblebee/Friend.as"
+			],
+			[
+				"facb",
+				"deploy/facebook.html"
+			],
+			[
+				"customv",
+				"source/com/bumblebee/struct/CustomView.as"
+			],
+			[
+				"user.as",
+				"source/com/bumblebee/User.as"
+			],
+			[
+				"user",
+				"source/com/bumblebee/User.as"
+			],
+			[
+				"var",
+				"source/com/bumblebee/Var.as"
+			],
+			[
+				"build.s",
+				"build/build.sql"
+			],
+			[
+				"git",
+				".gitignore"
+			],
+			[
+				"index.p",
+				"src/htdocs/index.php"
+			],
+			[
+				"index.php",
+				"src/test/facedetect/index.php"
+			],
+			[
+				"",
+				"src/legendofyou/config/legendofyou.php"
+			],
+			[
+				"config.php",
+				"src/codeigniter/core/Config.php"
+			],
+			[
+				"controlllege",
+				"src/legendofyou/controllers/legendofyou.php"
+			],
+			[
+				"config",
+				"src/legendofyou/config/config.php"
+			],
+			[
+				"rakefi",
+				"src/Rakefile"
+			],
+			[
+				"rakefile",
+				"src/Rakefile"
+			],
+			[
+				"voiceov",
+				"build/voiceovers.sql"
+			],
+			[
+				"publis",
+				"src/legendofyou/views/publish.php"
+			],
+			[
+				"viewlege",
+				"src/legendofyou/views/legendofyou.php"
+			],
+			[
+				"configlege",
+				"src/legendofyou/config/legendofyou.php"
+			],
+			[
+				"configlegend",
+				"src/legendofyou/config/legendofyou.php"
+			],
+			[
+				"database",
+				"src/legendofyou/config/database.php"
+			],
+			[
+				"publish.",
+				"src/legendofyou/controllers/publish.php"
+			],
+			[
+				"data",
+				"src/legendofyou/config/database.php"
+			],
+			[
+				"publish",
+				"src/legendofyou/views/publish.php"
+			],
+			[
+				"publi",
+				"src/legendofyou/views/publish.php"
+			],
+			[
+				"main.min",
+				"src/htdocs/assets/js/main.min.js"
+			],
+			[
+				"slideshow.php",
+				"src/legendofyou/controllers/api/slideshow.php"
+			],
+			[
+				"api.js",
+				"src/htdocs/assets/js/api.js"
+			],
+			[
+				"databas",
+				"src/legendofyou/config/database.php"
+			],
+			[
+				"legend-app",
+				"src/htdocs/assets/js/legend-app.js"
+			],
+			[
+				"photo",
+				"src/legendofyou/controllers/api/photo.php"
+			],
+			[
+				"photo.p",
+				"src/legendofyou/controllers/api/photo.php"
+			],
+			[
+				"api.j",
+				"src/htdocs/assets/js/api.js"
+			],
+			[
+				"main.m",
+				"src/htdocs/assets/js/main.min.js"
+			],
+			[
+				"datab",
+				"src/legendofyou/config/database.php"
+			],
+			[
+				"slideshow",
+				"src/legendofyou/controllers/api/slideshow.php"
+			],
+			[
+				"modelvoi",
+				"src/legendofyou/models/voiceover_model.php"
+			],
+			[
+				"voiceo",
+				"src/legendofyou/controllers/api/voiceover.php"
+			],
+			[
+				"controvoic",
+				"src/legendofyou/controllers/api/voiceover.php"
+			],
+			[
+				"voice",
+				"build/voiceovers.sql"
+			],
+			[
+				"controllervoic",
+				"src/legendofyou/controllers/api/voiceover.php"
+			],
+			[
+				"configda",
+				"src/legendofyou/config/database.php"
+			],
+			[
+				"vars",
+				"src/htdocs/assets/css/variables.scss"
+			],
+			[
+				"sharele",
+				"src/htdocs/includes/legend_share_helper.php"
+			],
+			[
+				"publish.p",
+				"src/legendofyou/views/publish.php"
+			],
+			[
+				"viewlegen",
+				"src/legendofyou/views/legendofyou.php"
+			],
+			[
+				"codekit",
+				"src/htdocs/codekit-config.json"
+			],
+			[
+				"controllerre",
+				"src/legendofyou/controllers/redirect.php"
+			],
+			[
+				"redirec",
+				"src/legendofyou/controllers/redirect.php"
+			],
+			[
+				"php.",
+				"src/htdocs/php.ini"
+			],
+			[
+				"viewlegend",
+				"src/legendofyou/views/legendofyou.php"
+			],
+			[
+				"main.js",
+				"src/htdocs/assets/js/main.min.js"
+			],
+			[
+				"csphoto",
+				"src/htdocs/assets/js/plugins/csphotoselector/csphotoselector.js"
+			],
+			[
+				"configleg",
+				"src/legendofyou/config/legendofyou.php"
+			],
+			[
+				"main.min.",
+				"src/htdocs/assets/js/main.min.js"
+			],
+			[
+				"share_help",
+				"src/htdocs/includes/legend_share_helper.php"
+			],
+			[
+				"easepa",
+				"src/htdocs/assets/js/greensock/easing/EasePack.js"
+			],
+			[
+				"csphot",
+				"src/htdocs/assets/js/plugins/csphotoselector/csphotoselector.js"
+			],
+			[
+				"csphotosele",
+				"src/htdocs/assets/js/plugins/csphotoselector/csphotoselector.js"
+			],
+			[
+				"codeigfile",
+				"src/codeigniter/helpers/file_helper.php"
+			],
+			[
+				"upload.",
+				"src/codeigniter/libraries/Upload.php"
+			],
+			[
+				"api",
+				"src/htdocs/assets/js/api.js"
+			],
+			[
+				"main.scss",
+				"src/htdocs/assets/css/main.scss"
+			],
+			[
+				"test",
+				"src/htdocs/focus-test.html"
+			],
+			[
+				"photose.scss",
+				"src/htdocs/assets/css/csphotoselector.scss"
+			],
+			[
+				"csphotos",
+				"src/htdocs/assets/css/csphotoselector.scss"
+			],
+			[
+				"legendofyou",
+				"src/legendofyou/views/legendofyou.php"
+			],
+			[
+				"upload.php",
+				"src/legendofyou/libraries/qqfileuploader.php"
+			],
+			[
+				"upload.p",
+				"src/codeigniter/libraries/Upload.php"
+			],
+			[
+				"configco",
+				"src/legendofyou/config/config.php"
+			],
+			[
+				"viewslege",
+				"src/legendofyou/views/legendofyou.php"
+			],
+			[
+				"controllerlege",
+				"src/legendofyou/controllers/legendofyou.php"
+			],
+			[
+				"api.",
+				"src/htdocs/assets/js/api.js"
+			],
+			[
+				"exampl",
+				"src/htdocs/assets/js/plugins/csphotoselector/example.js"
+			],
+			[
+				"configlegen",
+				"src/legendofyou/config/legendofyou.php"
+			],
+			[
+				"email",
+				"src/legendofyou/controllers/email.php"
+			],
+			[
+				"legendary",
+				"src/legendofyou/datamapper/array.php"
+			],
+			[
+				"legendconfig",
+				"src/legendofyou/config/legendofyou.php"
+			],
+			[
+				"legendconf",
+				"src/legendofyou/config/config.php"
+			],
+			[
+				"constants",
+				"src/legendofyou/config/constants.php"
+			],
+			[
+				"legenduplo",
+				"src/legendofyou/controllers/api/slideshow.php"
+			],
+			[
+				"constant",
+				"src/legendofyou/config/constants.php"
+			],
+			[
+				"filter",
+				"src/legendofyou/models/filter_model.php"
+			],
+			[
+				"river",
+				"src/legendofyou/classes/filters/riverfallfilter.php"
+			],
+			[
+				"legendphoto",
+				"src/legendofyou/classes/filters/iphotofilter.php"
+			],
+			[
+				"my_em",
+				"src/legendofyou/libraries/MY_Email.php"
+			],
+			[
+				"email.p",
+				"src/codeigniter/libraries/Email.php"
+			],
+			[
+				"configema",
+				"src/legendofyou/config/email.php"
+			],
+			[
+				"emai",
+				"src/legendofyou/controllers/email.php"
+			],
+			[
+				"configle",
+				"src/legendofyou/config/legendofyou.php"
+			],
+			[
+				"slideshowm",
+				"src/legendofyou/models/slideshowviews_model.php"
+			],
+			[
+				"build.",
+				"build/build.sql"
+			],
+			[
+				"varia",
+				"src/htdocs/assets/css/variables.scss"
+			],
+			[
+				"varai",
+				"src/htdocs/assets/voiceovers/parts/formats/line_MIM_F.m4a"
+			],
+			[
+				"dat",
+				"src/legendofyou/config/database.php"
+			],
+			[
+				"main.scs",
+				"src/htdocs/assets/css/main.scss"
+			],
+			[
+				"legenscss",
+				"src/htdocs/assets/css/legend-video.scss"
+			],
+			[
+				"gitin",
+				".gitignore"
+			],
+			[
+				"viewle",
+				"src/legendofyou/views/legendofyou.php"
+			],
+			[
+				"jsmovi",
+				"src/htdocs/assets/js/plugins/jsmovieclip-1.js"
+			],
+			[
+				"pxload",
+				"src/htdocs/assets/js/pxloader/PxLoader.js"
+			],
+			[
+				"app.",
+				"src/htdocs/assets/js/legend-app.js"
+			],
+			[
+				"plugins",
+				"src/htdocs/assets/js/plugins-min.js"
+			],
+			[
+				"variab",
+				"src/htdocs/assets/css/variables.scss"
+			],
+			[
+				"sharehelp",
+				"src/htdocs/includes/legend_share_helper.php"
+			],
+			[
+				"redirecthelp",
+				"src/codeigniter/helpers/directory_helper.php"
+			],
+			[
+				"plugin",
+				"src/htdocs/assets/js/plugins.js"
+			],
+			[
+				"video.j",
+				"src/htdocs/assets/js/video/video.js"
+			],
+			[
+				"dirtsas",
+				"src/htdocs/assets/css/film_dirt_spritesheet.sass"
+			],
+			[
+				"plugins-min",
+				"src/htdocs/assets/js/plugins-min.js"
+			],
+			[
+				"plugins-m",
+				"src/htdocs/assets/js/plugins-min.js"
+			],
+			[
+				"viewleg",
+				"src/legendofyou/views/legendofyou.php"
+			],
+			[
+				"bleed",
+				"src/htdocs/assets/css/film_bleed_spritesheet.sass"
+			],
+			[
+				".sass",
+				"src/htdocs/assets/css/film_dirt_spritesheet.sass"
+			],
+			[
+				"sass",
+				"src/htdocs/assets/css/film_dirt_spritesheet.sass"
+			],
+			[
+				"easepac",
+				"src/htdocs/assets/js/greensock/easing/EasePack.js"
+			],
+			[
+				"plug",
+				"src/htdocs/assets/js/plugins.js"
+			],
+			[
+				"tween",
+				"src/htdocs/tween-test.php"
+			],
+			[
+				"reset",
+				"src/codeigniter/core/Security.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 286.0,
+	"status_bar_visible": true
+}
