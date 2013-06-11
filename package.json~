@@ -18,7 +18,8 @@
     "hubot-hall": "latest",
     "hubot": "2.4.2",
     "hubot-scripts": "latest",
-    "optparse": "1.0.3"
+    "optparse": "1.0.3",
+    "redis": "0.8.2"
   },
 
   "engines": {
