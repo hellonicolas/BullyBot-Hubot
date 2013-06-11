@@ -1,1 +1,1 @@
-web: bin/hubot -a hall -n BullyBot --enable-slash
+web: bin/hubot -a hall -n BullyBot
