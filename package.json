@@ -18,7 +18,8 @@
     "hubot-hall": "latest",
     "hubot": "2.5.x",
     "hubot-scripts": "latest",
-    "optparse": "1.0.3"
+    "optparse": "1.0.3",
+    "soupselect": "latest"
   },
 
   "engines": {
