@@ -1,6 +1,6 @@
 #!/bin/sh
 
-set HUBOT_HALL_LOGIN_EMAIL="jasonamorano@gmail.com"
+set HUBOT_HALL_LOGIN_EMAIL="accounts@bullyentertainment.com"
 set HUBOT_HALL_LOGIN_PASSWORD="Bully1121"
 
 npm install
