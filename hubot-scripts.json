@@ -21,5 +21,7 @@
 	"meme_captain.coffee",
 	"http-post-say.coffee",
 	"http-say.coffee",
-	"mongolab-brain.coffee"
+	"mongolab-brain.coffee",
+	"cloudapp.coffee",
+	"droplr.coffee"
 ]
