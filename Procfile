@@ -1,1 +1,1 @@
-web: bin/hubot -a hall -n BullyBot
+web: bin/hubot -a hall -n /
