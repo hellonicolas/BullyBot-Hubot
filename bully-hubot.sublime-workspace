@@ -1,0 +1,775 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"setup",
+				"setupEndtag"
+			],
+			[
+				"pro",
+				"processed_img"
+			],
+			[
+				"imgcon",
+				"imgContainerOuter"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"slide",
+				"slideshowWidth"
+			],
+			[
+				"in",
+				"include"
+			],
+			[
+				"tab",
+				"tab-focus"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 52.0,
+		"selected_items":
+		[
+			[
+				"syntaxphp",
+				"Set Syntax: PHP"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"reveal",
+				"File: Reveal"
+			],
+			[
+				"preferences",
+				"Preferences: Settings - User"
+			],
+			[
+				"install p",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"copy",
+				"File: Copy Path as URI"
+			],
+			[
+				"file na",
+				"File: Copy Name"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ipsum",
+				"LoremIpsum: (15) some"
+			],
+			[
+				"package ",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 417.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/css/legend-video.scss",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/main.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/video/video.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/phpinfo.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/main.min.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/css/video-js.scss",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/plugins/csphotoselector/csphotoselector.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/sm2/soundmanager2.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/legend-video-test.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/models/voiceover_model.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/config/database.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/controllers/api/photo.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/Rakefile",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/config/legendofyou.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/exclude.txt",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/index.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/plugins.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/plugins/jquery.frameSequencer.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/api.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/legend-app.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/classes/filters/relicfilter.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/classes/filters/tradingcofilter_backup.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/models/filter_model.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/classes/filters/tradingcofilter.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/im_effects/curves.sh",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/.gitignore",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/controllers/install.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/helpers/inflector_helper.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/classes/filters/filter.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/classes/filters/instagraph.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/classes/filters/riverfallfilter.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/controllers/publish.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/config/bitly.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/views/publish.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/libraries/Bitly.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/css/film_dirt_spritesheet.sass",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/tween-test.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/untitled.sublime-project",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/plugins-min.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/greensock/TweenLite.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/classes/voiceoverviewmodel.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/includes/legend_share_helper.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/legend-video-test.html",
+		"/Users/herronicoras/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/pxloader/PxLoader.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/codekit-config.json",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/sm2/soundmanager2-jsmin.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/css/main.scss",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/untitled.sublime-workspace",
+		"/Users/herronicoras/Dropbox/Apps/scriptogram/posts/2011-12-31.md",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/core/admin/js/tiny_mce/themes/simple/langs/en.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/core/admin/js/tiny_mce/plugins/advimage/image.htm",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/core/admin/js/tiny_mce/utils/mctabs.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/core/admin/auto-modules/views/images.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/core/admin/auto-modules/views/_common-js.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/custom/admin/ajax/developer/field-options/redactor_html_area.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/custom/admin/form-field-types/process/redactor_html_area.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/custom/admin/form-field-types/draw/redactor_html_area.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/core/admin/form-field-types/draw/textarea.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/core/admin/form-field-types/process/textarea.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/core/admin/form-field-types/draw/html.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/core/admin/form-field-types/process/html.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/core/admin/ajax/developer/field-options/html.php",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/site/playground/bullyhub-brain-wiki-page.html",
+		"/Users/herronicoras/Library/Application Support/Sublime Text 2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt",
+		"/Users/herronicoras/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/site/playground/sass/bootstrap.scss",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/site/playground/sass/_variables.scss",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/BullySite-REFRESH/site/playground/sass/_mixins.scss",
+		"/Users/Rome/Documents/Projects/Bully/BullySite_Refresh/example-site.sql",
+		"/Users/Rome/Documents/Projects/Havas/HV12001_dosEquis/build/LegendOfYou/LegendOfYou.sublime-project",
+		"/Users/Rome/Downloads/mhisamoto@bullyentertainment.com - Email Signatures/signature.html",
+		"/Users/Rome/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/Rome/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"?v=24",
+			"?v=",
+			"preload",
+			"video player rea",
+			"v",
+			"console.log",
+			"ie8",
+			"$('#endtag-video-player').css",
+			"$sampleVideoPlayer = videojs('sample-video-player');",
+			"ready",
+			"$endTagVideoPlayer",
+			"var $endTagVideoPlayer",
+			"$endTagVideoPlayer",
+			"console.",
+			"try",
+			"resetphotos",
+			"videojs",
+			"resetPhotos",
+			"<video",
+			"endTagVideoPlayer",
+			"vidOptions",
+			"videojs",
+			"_v_",
+			"setpropert",
+			"setprop",
+			"vidOptions",
+			"<video",
+			"callbackCancel",
+			"settings.cacheBusterString",
+			"cacheBusterString",
+			"settings.cacheBusterString",
+			"<video",
+			"sampleVideoPlayer",
+			"samplevi",
+			"/n",
+			"\\n",
+			"videoshare",
+			"flashin",
+			"$sampleVideoPlayer",
+			"sampleVideoPlayer",
+			"vjs-loading-spinner",
+			"vjs-load-progress",
+			"progress",
+			"font",
+			"progres",
+			"font-fam",
+			"progress",
+			"poster",
+			"samplevideo",
+			"videojs",
+			"video",
+			"videoAvailable",
+			"isMobile",
+			"!settings.isMobile && videoAvailable",
+			"|| videoAvailable",
+			"&& videoAvailable",
+			"|| videoAvailable",
+			"|| !videoAvailable",
+			"|| videoAvailable",
+			"!settings.isMobile ||",
+			"!settings.isMobile",
+			"!settings.isMobile || videoAvailable",
+			"!settings.isMobile || !videoAvailable",
+			"if ( !settings.isMobile || !videoAvailable )",
+			"if ( !settings.isMobile || videoAvailable )",
+			"|| videoAvailable",
+			"!settings.isMobile || videoAvailable",
+			"ismobile",
+			"modernizr.vi",
+			"flashinstall",
+			"modernizr.vid",
+			"v=24",
+			"?v=23",
+			"flashinstall",
+			"ismobile",
+			"tech",
+			"isready",
+			"ismobile",
+			"$videoShare",
+			"video-share",
+			".vjs-control-bar",
+			"vjs-control-bar",
+			"controls",
+			"\n		soundManager.setup({\n			url: 'assets/js/sm2/swf',\n\n			ontimeout: function(status){\n				log('****** SOUNDMANAGER TIMEOUT!!!!');\n				soundManager.useHTML5Audio = true;\n				soundManager.preferFlash = flashInstalled;\n				soundManager.reboot();\n			},\n			\n			onready: function(){\n				initSFX();\n			}\n		});\n\n		soundManager.beginDelayedInit();",
+			"assetLoader",
+			"var assetLoader",
+			"assetLoader",
+			"assetloader = new",
+			"startPreloading",
+			"assetLoader",
+			"prep assets fo",
+			"environ",
+			"font-fam",
+			"woff",
+			"vjs",
+			"removeevent",
+			"addevent",
+			"removeevent",
+			"addevent",
+			"controls",
+			"addevent",
+			"videojs",
+			"videojs\nvideojs",
+			"_V_",
+			"videojs\nvideojs",
+			"_V_",
+			"_v",
+			"<video",
+			"flashinstall",
+			"html",
+			"soundManager.setup",
+			"main.min",
+			"soundman",
+			"soundmanager.setup",
+			"flash",
+			"preferflas",
+			"soundmanager",
+			"soundma",
+			"soundmanager",
+			".js",
+			".ks",
+			"soundmanag",
+			"flash",
+			"soundmanager",
+			"hasFlash",
+			"soundmanager",
+			"?v=22",
+			"swfobj"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"video.js",
+				"src/htdocs/assets/js/video/video.js"
+			],
+			[
+				"csphoto",
+				"src/htdocs/assets/js/plugins/csphotoselector/csphotoselector.js"
+			],
+			[
+				"main.min",
+				"src/htdocs/assets/js/main.min.js"
+			],
+			[
+				"video.scss",
+				"src/htdocs/assets/css/video-js.scss"
+			],
+			[
+				"vide",
+				"src/htdocs/assets/css/video-js.scss"
+			],
+			[
+				"vide-te",
+				"src/htdocs/legend-video-test.php"
+			],
+			[
+				"sound",
+				"src/htdocs/assets/js/sm2/soundmanager2.js"
+			],
+			[
+				"soundmana",
+				"src/htdocs/assets/js/sm2/soundmanager2.js"
+			],
+			[
+				"voiceover_mode",
+				"src/legendofyou/models/voiceover_model.php"
+			],
+			[
+				"main.js",
+				"src/htdocs/assets/js/main.js"
+			],
+			[
+				"csphotosel",
+				"src/htdocs/assets/js/plugins/csphotoselector/csphotoselector.js"
+			],
+			[
+				"voiceover_model",
+				"src/legendofyou/models/voiceover_model.php"
+			],
+			[
+				"databa",
+				"src/legendofyou/config/database.php"
+			],
+			[
+				"configlege",
+				"src/legendofyou/config/legendofyou.php"
+			],
+			[
+				"index.ph",
+				"src/htdocs/index.php"
+			],
+			[
+				"exclude",
+				"src/exclude.txt"
+			],
+			[
+				"rake",
+				"src/Rakefile"
+			],
+			[
+				"index",
+				"src/htdocs/index.php"
+			],
+			[
+				"photo.p",
+				"src/legendofyou/controllers/api/photo.php"
+			],
+			[
+				"data",
+				"src/legendofyou/config/database.php"
+			],
+			[
+				"legend-app",
+				"src/htdocs/assets/js/legend-app.js"
+			],
+			[
+				"plugn",
+				"src/htdocs/assets/js/plugins.js"
+			],
+			[
+				"sequencer",
+				"src/htdocs/assets/js/plugins/jquery.frameSequencer.js"
+			],
+			[
+				"api.j",
+				"src/htdocs/assets/js/api.js"
+			],
+			[
+				"curves",
+				"src/htdocs/assets/im_effects/curves.sh"
+			],
+			[
+				"gitn",
+				".gitignore"
+			],
+			[
+				"install",
+				"src/legendofyou/controllers/install.php"
+			],
+			[
+				"curves.sh",
+				"src/htdocs/assets/im_effects/curves.sh"
+			],
+			[
+				"filter",
+				"src/legendofyou/helpers/inflector_helper.php"
+			],
+			[
+				"instagraph",
+				"src/legendofyou/classes/filters/instagraph.php"
+			],
+			[
+				"tradin",
+				"src/legendofyou/classes/filters/tradingcofilter.php"
+			],
+			[
+				"filter.p",
+				"src/legendofyou/classes/filters/filter.php"
+			],
+			[
+				"tradingco",
+				"src/legendofyou/classes/filters/tradingcofilter_backup.php"
+			],
+			[
+				"trading",
+				"src/legendofyou/classes/filters/tradingcofilter.php"
+			],
+			[
+				"river",
+				"src/legendofyou/classes/filters/riverfallfilter.php"
+			],
+			[
+				"relicf",
+				"src/legendofyou/classes/filters/relicfilter.php"
+			],
+			[
+				"datab",
+				"src/legendofyou/config/database.php"
+			],
+			[
+				"api.js",
+				"src/htdocs/assets/js/api.js"
+			],
+			[
+				"publish",
+				"src/legendofyou/views/publish.php"
+			],
+			[
+				"publi",
+				"src/legendofyou/controllers/publish.php"
+			],
+			[
+				"bitly",
+				"src/legendofyou/config/bitly.php"
+			],
+			[
+				"bitl",
+				"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/legendofyou/libraries/Bitly.php"
+			],
+			[
+				"bit.",
+				"src/legendofyou/config/bitly.php"
+			],
+			[
+				"configle",
+				"src/legendofyou/config/legendofyou.php"
+			],
+			[
+				"api.",
+				"src/htdocs/assets/js/api.js"
+			],
+			[
+				"app",
+				"src/htdocs/assets/js/legend-app.js"
+			],
+			[
+				"spritesh",
+				"src/htdocs/assets/css/film_dirt_spritesheet.sass"
+			],
+			[
+				"sprite",
+				"src/htdocs/assets/css/film_dirt_spritesheet.sass"
+			],
+			[
+				"tween",
+				"src/htdocs/tween-test.php"
+			],
+			[
+				"plug",
+				"src/htdocs/assets/js/plugins-min.js"
+			],
+			[
+				"plugins",
+				"src/htdocs/assets/js/plugins.js"
+			],
+			[
+				"tweenli",
+				"src/htdocs/assets/js/greensock/TweenLite.js"
+			],
+			[
+				"voiceovermode",
+				"src/legendofyou/models/voiceover_model.php"
+			],
+			[
+				"voico",
+				"src/legendofyou/classes/voiceoverviewmodel.php"
+			],
+			[
+				"shareh",
+				"src/htdocs/includes/legend_share_helper.php"
+			],
+			[
+				"videotes",
+				"src/htdocs/legend-video-test.php"
+			],
+			[
+				"legendapp",
+				"src/htdocs/assets/js/legend-app.js"
+			],
+			[
+				"pxloa",
+				"src/htdocs/assets/js/pxloader/PxLoader.js"
+			],
+			[
+				"plugin",
+				"src/htdocs/assets/js/sm2/soundmanager2-jsmin.js"
+			],
+			[
+				"codek",
+				"src/htdocs/codekit-config.json"
+			],
+			[
+				"plugins-m",
+				"src/htdocs/assets/js/plugins-min.js"
+			],
+			[
+				"legend-ap",
+				"src/htdocs/assets/js/legend-app.js"
+			],
+			[
+				"legen",
+				"src/legendofyou/views/legendofyou.php"
+			],
+			[
+				"legendjs",
+				"src/htdocs/assets/js/legend-video.js"
+			],
+			[
+				"main.scs",
+				"src/htdocs/assets/css/main.scss"
+			],
+			[
+				"video.scs",
+				"src/htdocs/assets/css/legend-video.scss"
+			],
+			[
+				"vidoe",
+				"src/htdocs/legend-video-test.html"
+			],
+			[
+				"upload",
+				"core/admin/form-field-types/process/upload.php"
+			],
+			[
+				"tinyimage",
+				"core/admin/js/tiny_mce/themes/simple/langs/en.js"
+			],
+			[
+				"tiny",
+				"core/admin/js/tiny_mce/utils/mctabs.js"
+			],
+			[
+				"common",
+				"core/admin/auto-modules/views/_common-js.php"
+			],
+			[
+				"image",
+				"core/admin/auto-modules/views/images.php"
+			],
+			[
+				"textarea",
+				"core/admin/form-field-types/draw/textarea.php"
+			],
+			[
+				"html.php",
+				"core/admin/ajax/developer/field-options/html.php"
+			],
+			[
+				"textarea.p",
+				"core/admin/form-field-types/draw/textarea.php"
+			],
+			[
+				"html",
+				"core/admin/ajax/developer/field-options/html.php"
+			],
+			[
+				"red",
+				"custom/admin/ajax/developer/field-options/redactor_html_area.php"
+			],
+			[
+				"redac",
+				"custom/admin/form-field-types/process/redactor_html_area.php"
+			],
+			[
+				"redacto",
+				"custom/admin/form-field-types/draw/redactor_html_area.php"
+			],
+			[
+				"page",
+				"site/playground/bullyhub-brain-wiki-page.html"
+			],
+			[
+				"page.ht",
+				"site/playground/bullyhub-brain-wiki-page.html"
+			],
+			[
+				"wiki",
+				"site/playground/bullyhub-brain-wiki.html"
+			],
+			[
+				"mixin",
+				"site/playground/sass/_mixins.scss"
+			],
+			[
+				"varia",
+				"site/playground/sass/_variables.scss"
+			],
+			[
+				".scss",
+				"site/playground/sass/bootstrap.scss"
+			],
+			[
+				"main.s",
+				"site/playground/sass/main.scss"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"app.",
+				"app.js"
+			],
+			[
+				"si",
+				"/Users/Rome/Downloads/mhisamoto@bullyentertainment.com - Email Signatures/signature.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 281.0,
+	"status_bar_visible": true
+}
