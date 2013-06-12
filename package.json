@@ -22,12 +22,12 @@
     "soupselect": "0.2.0",
     "htmlparser": "1.7.6",
     "big-integer": "1.1.5",
-    "mongodb": "1.2.11",
+    "mongodb": "*",
     "querystring": "0.1.0"
   },
 
   "engines": {
-    "node": "0.8.21",
+    "node": "0.8.x",
     "npm": "1.1.x"
   }
 }

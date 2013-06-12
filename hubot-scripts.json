@@ -23,7 +23,7 @@
 	"meme_generator.coffee",
 	"http-post-say.coffee",
 	"http-say.coffee",
-	"mongo-brain.coffee",
+	"mongolab-brain.coffee",
 	"hubotagainsthumanity.coffee",
 	"jokels.coffee"
 ]
