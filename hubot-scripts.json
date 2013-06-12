@@ -21,5 +21,6 @@
 	"megusta.coffee",
 	"meme_captain.coffee",
 	"meme_generator.coffee",
-	"http-post-say.coffee"
+	"http-post-say.coffee",
+	"mongolab-brain.coffee"
 ]
