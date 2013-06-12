@@ -24,5 +24,6 @@
 	"http-post-say.coffee",
 	"http-say.coffee",
 	"mongolab-brain.coffee",
-	"hubotagainsthumanity.coffee"
+	"hubotagainsthumanity.coffee",
+	"jokels.coffee"
 ]
