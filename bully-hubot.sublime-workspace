@@ -35,6 +35,62 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "hubot-scripts.json",
+			"settings":
+			{
+				"buffer_size": 535,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Procfile",
+			"settings":
+			{
+				"buffer_size": 28,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/hubot-scripts/src/scripts/http-post-say.coffee",
+			"settings":
+			{
+				"buffer_size": 758,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 739,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/hubot-scripts/src/scripts/http-say.coffee",
+			"settings":
+			{
+				"buffer_size": 643,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/hubot-scripts/src/scripts/mongo-brain.coffee",
+			"settings":
+			{
+				"buffer_size": 1724,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "node_modules/hubot-scripts/src/scripts/mongolab-brain.coffee",
+			"settings":
+			{
+				"buffer_size": 1759,
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -116,6 +172,14 @@
 	},
 	"file_history":
 	[
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/node_modules/hubot-scripts/src/scripts/mongo-brain.coffee",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/node_modules/hubot-scripts/src/scripts/mongolab-brain.coffee",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/node_modules/hubot-scripts/src/scripts/redis-brain.coffee",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/node_modules/hubot-scripts/src/scripts/jokels.coffee",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/node_modules/hubot-hall/src/hall.coffee",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/node_modules/hubot-hall/node_modules/hall-client/lib/hall.js",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/scripts/google-images.coffee",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/bully-hubot.sublime-project",
 		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/css/legend-video.scss",
 		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/main.js",
 		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Havas/LegendOfYou/build/LegendOfYou/src/htdocs/assets/js/video/video.js",
@@ -208,6 +272,17 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"heroku",
+			"redis",
+			"_URI",
+			"type",
+			"user",
+			"type",
+			"query",
+			"brain",
+			"cap",
+			" \"",
+			"\",",
 			"?v=24",
 			"?v=",
 			"preload",
@@ -324,18 +399,7 @@
 			"soundmanager.setup",
 			"flash",
 			"preferflas",
-			"soundmanager",
-			"soundma",
-			"soundmanager",
-			".js",
-			".ks",
-			"soundmanag",
-			"flash",
-			"soundmanager",
-			"hasFlash",
-			"soundmanager",
-			"?v=22",
-			"swfobj"
+			"soundmanager"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -353,8 +417,199 @@
 	"groups":
 	[
 		{
+			"selected": 6,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "hubot-scripts.json",
+					"settings":
+					{
+						"buffer_size": 535,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								278,
+								278
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Procfile",
+					"settings":
+					{
+						"buffer_size": 28,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								28,
+								28
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "node_modules/hubot-scripts/src/scripts/http-post-say.coffee",
+					"settings":
+					{
+						"buffer_size": 758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								626,
+								617
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "package.json",
+					"settings":
+					{
+						"buffer_size": 739,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								670,
+								670
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "node_modules/hubot-scripts/src/scripts/http-say.coffee",
+					"settings":
+					{
+						"buffer_size": 643,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								643,
+								643
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "node_modules/hubot-scripts/src/scripts/mongo-brain.coffee",
+					"settings":
+					{
+						"buffer_size": 1724,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1147,
+								1147
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 11.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "node_modules/hubot-scripts/src/scripts/mongolab-brain.coffee",
+					"settings":
+					{
+						"buffer_size": 1759,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1137,
+								1137
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -399,6 +654,62 @@
 		"height": 0.0,
 		"selected_items":
 		[
+			[
+				"mongolab",
+				"node_modules/hubot-scripts/src/scripts/mongolab-brain.coffee"
+			],
+			[
+				"packa",
+				"package.json"
+			],
+			[
+				"mongo-br",
+				"node_modules/hubot-scripts/src/scripts/mongo-brain.coffee"
+			],
+			[
+				"mong-b",
+				"node_modules/hubot-scripts/src/scripts/mongo-brain.coffee"
+			],
+			[
+				"mongo-bra",
+				"node_modules/hubot-scripts/src/scripts/mongo-brain.coffee"
+			],
+			[
+				"redis",
+				"node_modules/hubot-scripts/src/scripts/redis-brain.coffee"
+			],
+			[
+				"mong-brain",
+				"node_modules/hubot-scripts/src/scripts/mongo-brain.coffee"
+			],
+			[
+				"jokels",
+				"node_modules/hubot-scripts/src/scripts/jokels.coffee"
+			],
+			[
+				"hall",
+				"node_modules/hubot-hall/node_modules/hall-client/lib/hall.js"
+			],
+			[
+				"mongo",
+				"node_modules/hubot-scripts/src/scripts/mongolab-brain.coffee"
+			],
+			[
+				"http-say",
+				"node_modules/hubot-scripts/src/scripts/http-say.coffee"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"",
+				"node_modules/hubot-scripts/src/scripts/http-post-say.coffee"
+			],
+			[
+				"http-post-sa",
+				"node_modules/hubot-scripts/src/scripts/http-post-say.coffee"
+			],
 			[
 				"video.js",
 				"src/htdocs/assets/js/video/video.js"
