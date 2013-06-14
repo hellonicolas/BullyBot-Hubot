@@ -39,7 +39,7 @@
 			"file": "hubot-scripts.json",
 			"settings":
 			{
-				"buffer_size": 535,
+				"buffer_size": 441,
 				"line_ending": "Unix"
 			}
 		},
@@ -63,7 +63,7 @@
 			"file": "package.json",
 			"settings":
 			{
-				"buffer_size": 739,
+				"buffer_size": 761,
 				"line_ending": "Unix"
 			}
 		},
@@ -72,22 +72,6 @@
 			"settings":
 			{
 				"buffer_size": 643,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "node_modules/hubot-scripts/src/scripts/mongo-brain.coffee",
-			"settings":
-			{
-				"buffer_size": 1724,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "node_modules/hubot-scripts/src/scripts/mongolab-brain.coffee",
-			"settings":
-			{
-				"buffer_size": 1759,
 				"line_ending": "Unix"
 			}
 		}
@@ -175,6 +159,7 @@
 		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/node_modules/hubot-scripts/src/scripts/mongo-brain.coffee",
 		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/node_modules/hubot-scripts/src/scripts/mongolab-brain.coffee",
 		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/node_modules/hubot-scripts/src/scripts/redis-brain.coffee",
+		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/node_modules/hubot-scripts/src/scripts/meme_captain.coffee",
 		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/node_modules/hubot-scripts/src/scripts/jokels.coffee",
 		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/node_modules/hubot-hall/src/hall.coffee",
 		"/Volumes/Macintosh HD 2/My Stuff/clients/Bully/Bully!/bully-hubot/node_modules/hubot-hall/node_modules/hall-client/lib/hall.js",
@@ -272,6 +257,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"room",
+			"brain",
+			"say",
+			"http",
 			"heroku",
 			"redis",
 			"_URI",
@@ -395,11 +384,7 @@
 			"html",
 			"soundManager.setup",
 			"main.min",
-			"soundman",
-			"soundmanager.setup",
-			"flash",
-			"preferflas",
-			"soundmanager"
+			"soundman"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -417,7 +402,7 @@
 	"groups":
 	[
 		{
-			"selected": 6,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -425,20 +410,21 @@
 					"file": "hubot-scripts.json",
 					"settings":
 					{
-						"buffer_size": 535,
+						"buffer_size": 441,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								278,
-								278
+								439,
+								439
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+							"syntax": "Packages/JavaScript/JSON.tmLanguage",
+							"translate_tabs_to_spaces": false
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -484,8 +470,8 @@
 						"selection":
 						[
 							[
-								626,
-								617
+								136,
+								136
 							]
 						],
 						"settings":
@@ -505,15 +491,15 @@
 					"file": "package.json",
 					"settings":
 					{
-						"buffer_size": 739,
+						"buffer_size": 761,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								670,
-								670
+								692,
+								692
 							]
 						],
 						"settings":
@@ -540,69 +526,13 @@
 						"selection":
 						[
 							[
-								643,
-								643
+								509,
+								513
 							]
 						],
 						"settings":
 						{
 							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 5,
-					"file": "node_modules/hubot-scripts/src/scripts/mongo-brain.coffee",
-					"settings":
-					{
-						"buffer_size": 1724,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1147,
-								1147
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 11.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "node_modules/hubot-scripts/src/scripts/mongolab-brain.coffee",
-					"settings":
-					{
-						"buffer_size": 1759,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1137,
-								1137
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -655,6 +585,18 @@
 		"selected_items":
 		[
 			[
+				"redis",
+				"node_modules/hubot-scripts/src/scripts/redis-brain.coffee"
+			],
+			[
+				"capta",
+				"node_modules/hubot-scripts/src/scripts/meme_captain.coffee"
+			],
+			[
+				"memecap",
+				"node_modules/hubot-scripts/src/scripts/meme_captain.coffee"
+			],
+			[
 				"mongolab",
 				"node_modules/hubot-scripts/src/scripts/mongolab-brain.coffee"
 			],
@@ -673,10 +615,6 @@
 			[
 				"mongo-bra",
 				"node_modules/hubot-scripts/src/scripts/mongo-brain.coffee"
-			],
-			[
-				"redis",
-				"node_modules/hubot-scripts/src/scripts/redis-brain.coffee"
 			],
 			[
 				"mong-brain",
