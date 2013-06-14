@@ -23,5 +23,6 @@
 	"http-say.coffee",
 	"mongolab-brain.coffee",
 	"cloudapp.coffee",
-	"droplr.coffee"
+	"droplr.coffee",
+	"replygif.coffee"
 ]
